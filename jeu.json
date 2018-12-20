@@ -4,12 +4,12 @@
           {
          "id":1,
          "date":"1er janvier",
-         "content":"Lorem ipsumm"
+         "content":"Lorem ipsumm",
           },
           {
             "id":2,
             "date":"2 janvier",
-            "content":"Elssssass ipsums"
+            "content":"Elssssass ipsums",
           }
     ]
 }
